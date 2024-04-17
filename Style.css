@@ -19,8 +19,6 @@
   .banner-wrap {
     background-image: url(./img/WhatsApp\ Image\ 2024-03-11\ at\ 17.21.09_2fef11d0.jpg);
      background-size: cover;
-    /*background-repeat: no-repeat;
-    background-position: center;*/
     position: relative; 
     z-index: 1;
   }
